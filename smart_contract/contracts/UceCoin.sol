@@ -126,8 +126,8 @@ contract UceCoin is ERC20Token, Owned{
 
     constructor()  {
 
-   addUser(0x6E6c01124F308Fa9D9F08F49Fd2f8030871958Bc ,"Pazmino Kevin", "krpazmino","123","Profesor");
-   addUser(0xcc4ea77cA1a3216663256cAdd248a6b20D60CDaF ,"Candelejo Mateo", "macandelejo","123","Profesor");
+   addUser(0x6E6c01124F308Fa9D9F08F49Fd2f8030871958Bc ,"Alvear Jose", "jalvear","123","Profesor");
+   addUser(0xcc4ea77cA1a3216663256cAdd248a6b20D60CDaF ,"Fiallos Mery", "mafiallos","123","Profesor");
    addUser(0x2e7B4Dd30177ebD3edd87ac6D37A04B534c3Ec61,"Perez Luis", "luperez", "123","Estudiante");
    addUser(0xA5b8568cb9556cf5D5Cc7a64b3Ca418F7D2E755A,"Cordoba Andres", "alcordoba", "123","Estudiante");
    addUser(0x7e7F8C67568A4D0Cf6F281274825b108F1e42b8D ,"Restaurante Filosofia 'El vecino'", "negocfilo","123","Servicio");
