@@ -1,7 +1,7 @@
 # Criptomoneda-Social-UceCoin
 
 Aplicación de transferencia de criptomonedas sociales creada como parte de la tesis creada de la carrera de Ingeniería Informática de la Universidad Central del Ecuador.
-El aplicativo esta compuesto de 2 partes: el contrato inteligente realizado en Solidity de la plataforma Ethereum y El Front End fue realizado en Javascript con ayuda de Tailwind Css.
+El aplicativo esta compuesto de 2 partes: el contrato inteligente realizado en Solidity de la plataforma Ethereum y El Front End fue realizado en Javascript con las librerias de React y TailwindCSS.
 
 ## Pantalla principal 
 ![image](https://github.com/MaxCoder25/Criptomoneda-Social-UceCoin/assets/98476953/defe7e5c-2e85-4af8-aa8f-2760586226b2)
